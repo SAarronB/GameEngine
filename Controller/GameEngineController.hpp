@@ -4,8 +4,6 @@
 
 
 #include <iostream>
-#include ""
-#include ""
 
 using namespace std;
 class GameEngineController{
@@ -13,4 +11,6 @@ class GameEngineController{
         
     public:
         void start();
-}
+};
+
+#endif //GameEngineController.hpp
